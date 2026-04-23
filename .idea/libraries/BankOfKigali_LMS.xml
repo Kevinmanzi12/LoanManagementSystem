@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BankOfKigali-LMS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BankOfKigali-LMS.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
