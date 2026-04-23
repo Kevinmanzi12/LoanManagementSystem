@@ -46,7 +46,7 @@ public class LoanSystem {
 
     private static void printBanner() {
         System.out.println("\n╔══════════════════════════════════════════════════╗");
-        System.out.println("║       BANK OF KIGALI – LOAN MANAGEMENT SYSTEM   ║");
+        System.out.println("║      BANK OF KIGALI – LOAN MANAGEMENT SYSTEM   ║");
         System.out.println("╚══════════════════════════════════════════════════╝");
     }
 
